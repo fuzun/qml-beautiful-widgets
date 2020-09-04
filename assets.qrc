@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>assets/images/bg_dark/1.jpg</file>
+        <file>assets/images/bg_dark/2.jpg</file>
+        <file>assets/images/bg_dark/3.jpg</file>
+        <file>assets/images/bg_dark/4.jpg</file>
+        <file>assets/images/bg_dark/5.jpg</file>
+        <file>assets/images/bg_light/1.jpg</file>
+        <file>assets/images/bg_light/2.jpg</file>
+        <file>assets/images/bg_light/3.jpg</file>
+        <file>assets/images/bg_light/4.jpg</file>
+        <file>assets/images/bg_light/5.jpg</file>
+        <file>assets/images/bg_light/6.jpg</file>
+        <file>assets/images/bg_light/7.jpg</file>
+        <file>assets/images/bg_light/8.jpg</file>
+        <file>assets/images/mona-lisa.jpg</file>
+    </qresource>
+</RCC>

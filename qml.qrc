@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qmldir</file>
+        <file>AppMenu.qml</file>
+        <file>AppSettings.qml</file>
+        <file>Widgets/AdaptiveGridView.qml</file>
+        <file>Widgets/ExpandableView.qml</file>
+        <file>Widgets/IncDecBar.qml</file>
+        <file>Widgets/InteractiveLabel.qml</file>
+        <file>Widgets/MapModel.qml</file>
+        <file>MainView.qml</file>
+        <file>BaseExpandableView.qml</file>
+    </qresource>
+</RCC>
